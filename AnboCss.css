@@ -1,0 +1,17 @@
+.shadow{
+   width: 100%;
+   height: 200px;
+}
+
+.topper{
+   font-style: italic;
+   font-size: large;
+}
+
+ pre, code { font-family: monospace; }
+ div.center { text-align: center; }
+ div.right { text-align: right; }
+ div.bundtekst { font-size: 60%; text-align: right; }
+
+.out {    text-decoration : line-through; }
+.new {    background-color : yellow;     color: black; }
